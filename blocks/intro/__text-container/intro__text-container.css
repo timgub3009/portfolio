@@ -1,0 +1,7 @@
+.intro__text-container {
+  display: flex;
+  flex-direction: column;
+  grid-area: text;
+  gap: 40px;
+  align-items: center;
+}

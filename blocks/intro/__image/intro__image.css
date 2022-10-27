@@ -1,0 +1,8 @@
+.intro__image {
+  height: 300px;
+  width: 500px;
+  border-radius: 25%;
+  object-fit: cover;
+  grid-area: image;
+  align-self: center;
+}

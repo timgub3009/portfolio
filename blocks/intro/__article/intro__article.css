@@ -1,0 +1,8 @@
+.intro__article {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-template-areas: "text image";
+  gap: 150px;
+  margin: 0 40px 75px 150px;
+}

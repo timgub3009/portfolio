@@ -1,0 +1,14 @@
+.header__links {
+  list-style-type: none;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 33px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.45;
+  padding: 0;
+  margin: 0;
+}
+

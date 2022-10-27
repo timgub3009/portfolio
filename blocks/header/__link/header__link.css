@@ -1,0 +1,10 @@
+.header__link {
+  display: block;
+  text-decoration: none;
+  color: #000;
+  transition: 0.8s;
+}
+
+.header__link:hover {
+  transform: scale(1) translateY(15px);
+}
